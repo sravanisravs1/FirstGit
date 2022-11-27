@@ -19,3 +19,7 @@ for(var i = 0; i < odd.length; i++){
    
  }
 
+
+//querySelector(selectors); It returns the first element which matches the selector. querySelectorAll() Method: The querySelectorAll()
+//method returns all the elements within the document which matches the specified CSS selector(s)
+
